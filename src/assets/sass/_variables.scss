@@ -1,0 +1,75 @@
+
+:root {
+  //////////////////////////////
+  // COLORS
+  --color-primary: #f06031;
+  --color-green: #7ed321;
+  --color-blue: #4a90e2;
+  --color-yellow: #f5a623;
+  --color-scarlet: #d0021b;
+
+  // Grey shades
+  --color-grey-dark-1: #3A4149;
+  --nav-color-light: #3A4149;
+  --color-grey-dark-2: #1a232b;
+  --nav-color-dark: #1a232b;
+
+
+  --color-grey-light-1: #f5f5f5;
+  --color-grey-light-2: #afafaf;
+
+  // Use pure black/white colors only if it is necessary
+  --color-black: #000000;
+  --color-white: #ffffff;
+
+  //////////////////////////////
+  // BOX SHADOW
+  --box-shadow-light: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  --box-shadow-dark: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+
+  //////////////////////////////
+  // FONT
+  --fs-normal: 1.6rem;
+
+  /////////////
+
+--nav-color-medium: #212B35;;
+--nav-border-color:#666f77;
+--btn-color-dark: #2F353A;
+}
+
+
+// Override / set color variables
+$white: #fff;
+$black: #000;
+$orange: #f06031; //SkylarkOrange
+$green: #7ed321; //apple-green
+$blue: #4a90e2; //dark sky blue
+$yellow: #f6c253; //Maize
+$red: #d0021b;
+
+// Create grayscale
+$color-grey-dark-2: #1a232b; //DarkerGrey
+$color-grey-light-2: #afafaf; //MediumGrey
+
+
+// Set skylark brand colors
+$primary: $orange; //Skylark Orange
+$secondary: $color-grey-light-2;
+$success: $green; // apple-green
+$info: $yellow; //Maize
+$warning: $blue; //dark sky blue
+$danger: $color-grey-dark-2;
+
+
+// // Override default form input color
+// //** `<input>` background color
+// $input-bg:                       $color-grey-dark-2;
+
+// //** Text color for `<input>`s
+// $input-color:                    #fff;
+
+// //** Placeholder text color
+// $input-color-placeholder:        #fff; 
+
+
