@@ -1,6 +1,6 @@
 export const USER_EMAIL = "testuser@zealousys.com";
 export const USER_PASS = "123456";
-export const API_ROOT = "https://reqres.in";
+export const API_ROOT = "http://localhost:8081";
 export const QUALIFICATION_OPTIONS = [
 	{
 		label: "M.Tech",
